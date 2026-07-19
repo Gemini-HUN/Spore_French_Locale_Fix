@@ -6,4 +6,4 @@ This mod fix some missing text in French locale
 * Santé
 * Energie
 
-Feedback by **FrenchSPORE
+Feedback by **FrenchSPORE**
