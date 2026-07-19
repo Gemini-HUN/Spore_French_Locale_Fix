@@ -5,3 +5,5 @@ This mod fix some missing text in French locale
 * Terraformation/Mini carte
 * Santé
 * Energie
+
+Feedback by **FrenchSPORE
